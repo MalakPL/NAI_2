@@ -18,3 +18,5 @@ Uruchom
 ```bash
 python main.py
 ```
+
+![Screenshot gry](screenshot.png)
