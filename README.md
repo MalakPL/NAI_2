@@ -19,4 +19,4 @@ Uruchom
 python main.py
 ```
 
-![Screenshot gry](screenshot.png)
+![Gra](anim.gif)
